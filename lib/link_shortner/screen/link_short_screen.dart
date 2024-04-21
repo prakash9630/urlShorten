@@ -78,7 +78,7 @@ class _LinkShortScreenState extends State<LinkShortScreen> {
               InkWell(
                 onTap: () async {
                 },
-                  child: Text(shortUrl!,style: w4f14(AppColors.appColor),))
+                  child:Text(shortUrl!,style: w4f14(AppColors.appColor),))
 
             ],
           ))
